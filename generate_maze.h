@@ -22,7 +22,7 @@
           \endcode
     */
 
-    Maze generateEller(int width, int height);
+    Maze generateEller(int width=0, int height);
 
     /*! \brief Функция генерации лабиринта на основе вероятностного алгоритма Крускала
          \param width, height количество клеток в высоту и ширину в лабиринте
