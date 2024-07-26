@@ -23,7 +23,7 @@
     */
 
 
-    Maze generateEller(int width=0, int height=1);
+    Maze generateEller(int width=0, int height=4);
 
 
     /*! \brief Функция генерации лабиринта на основе вероятностного алгоритма Крускала
